@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Chantal Lemieux
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Chantal
+last_name: Lemieux
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Algoma University
+    url: https://algomau.ca
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,14 +29,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Experimental Psychology
+      institution: University of Ottawa
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MArt in Experimental Psychology
+      institution: University of Ottawa
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Psychology
+      institution: University of Ottawa
       year: 2008
 
 # Social/Academic Networking
@@ -77,8 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My main research interests are in Cognitive Psychology where I have experience in several areas within the domain of higher-order cognition, including face perception, spatial cognition, metacognition and driving. Most recently, I have been focused on gender differences in spatial cognition, particularly visual spatial cue processing and performance monitoring. I am particularly excited to be teaching Sensation and Perception where I have several physical in-class demonstrations and illusions which make for a fun course! My other teaching interests include: Introduction to Behavioural Neuroscience, Scientific Method and Analysis, and Laboratories in Psychology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of academics, I am a proud mother to two curious boys who enjoy the outdoors going on nature walks and hikes with our dog. I enjoy yoga, playing soccer, and gardening. Most of all I love to travel. I have been to Thailand, Cambodia, India, Philippines, various countries in Europe, and the US and hope to grow this list throughout the years.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
