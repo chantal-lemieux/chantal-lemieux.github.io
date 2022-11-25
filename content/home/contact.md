@@ -18,10 +18,10 @@ content:
   # Contact details (edit or remove options as required)
   email: chantal.lemieux at algomau.ca
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 24 Queen St. East
+    city: Brampton
+    region: ON
+    postcode: 'L6V 1A3'
     country: Canada
     country_code: CA
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2

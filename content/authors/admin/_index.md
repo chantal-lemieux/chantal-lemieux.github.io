@@ -18,26 +18,23 @@ organizations:
     url: https://algomau.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Cognitive Psychology where I have experience in several areas within the domain of higher-order cognition, including face perception, spatial cognition, metacognition and driving.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Experimental Psychology
+    - course: MA-PhD in Experimental Psychology
       institution: University of Ottawa
-      year: 2012
-    - course: MArt in Experimental Psychology
-      institution: University of Ottawa
-      year: 2009
+      year: 2018
     - course: BSc in Psychology
       institution: University of Ottawa
-      year: 2008
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,21 +44,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Chantal-Lemieux-2
+  - icon:
+    incon_pack:
+    link: https://orcid.org/0000-0003-3939-1099
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/chantal-lemieux
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/chantal-lemieux-812549169/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -81,4 +75,4 @@ My main research interests are in Cognitive Psychology where I have experience i
 
 Outside of academics, I am a proud mother to two curious boys who enjoy the outdoors going on nature walks and hikes with our dog. I enjoy yoga, playing soccer, and gardening. Most of all I love to travel. I have been to Thailand, Cambodia, India, Philippines, various countries in Europe, and the US and hope to grow this list throughout the years.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/AcademicCV_Chantal_Lemieux_Nov2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
